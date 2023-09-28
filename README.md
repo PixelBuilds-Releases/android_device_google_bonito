@@ -1,1 +1,1 @@
-# android_device_google_bonito
+# PixelBuilds releases for the Google Pixel 3a XL aka bonito 
